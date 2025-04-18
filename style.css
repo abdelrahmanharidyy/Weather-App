@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: url('assets/bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+input {
+    padding: 10px;
+    font-size: 18px;
+    width: 200px;
+}
+
+button {
+    padding: 10px;
+    font-size: 18px;
+    margin-left: 10px;
+    cursor: pointer;
+}
