@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/74b1c720-f97e-40b1-8395-646227bfbaab)# Weather Web App
 
 A responsive web app that displays weather conditions based on user input. Built using HTML, CSS, and JavaScript.
 
