@@ -10,7 +10,7 @@ A responsive web app that displays weather conditions based on user input. Built
 ![screenshot](assets/message/Preview.png)
 
 ## 🔗 Live Demo  
-[Click here to view the project]([https://yourusername.github.io/your-repo-name/](https://abdelrahmanharidyy.github.io/Weather-App/))
+[Click here to view the project]([[https://yourusername.github.io/your-repo-name/](https://abdelrahmanharidyy.github.io/Weather-App/)](https://abdelrahmanharidyy.github.io/Weather-App/))
 
 ## Folder Structure
 - `index.html`: main HTML file
