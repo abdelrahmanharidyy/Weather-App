@@ -10,8 +10,8 @@ A responsive web app that displays weather conditions based on user input. Built
 ## Preview
 ![screenshot](assets/message/Preview.png)
 
-## How to Run
-Just open `index.html` in your browser — no server required!
+## 🔗 Live Demo  
+[Click here to view the project](https://yourusername.github.io/your-repo-name/)
 
 ## Folder Structure
 - `index.html`: main HTML file
